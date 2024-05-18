@@ -35,7 +35,7 @@
 * Tune hyperparameters using the validation set.
 * Evaluate its performance using F1-score.
 
-###### Remember, the goal is to achieve an F1-score greater than 0.67 on the test set.
+###### the goal is to achieve an F1-score greater than 0.67 on the test set.
 
 * Feature Selection and Dimensionality Reduction (Optional):
 * Analyze feature importance and select relevant features.
