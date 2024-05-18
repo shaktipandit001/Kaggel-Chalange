@@ -1,4 +1,4 @@
-# Kaggel-Chalange
+# Kaggel-Challange
 
 # Certainly! Thank you for the challenge(EDA). 
 
